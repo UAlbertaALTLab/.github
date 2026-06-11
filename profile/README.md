@@ -11,5 +11,5 @@ We expect to have intermitent (or completely missing) access to the following se
 - Semantic Explorer (and thus related words features in itwewina)
 We expect these services to be restored by end of the week.
 
-** We will likely have also downtime later in the month to transfer our gateway services and DNS resolution **
+**We will likely have also downtime later in the month to transfer our gateway services and DNS resolution**
 
